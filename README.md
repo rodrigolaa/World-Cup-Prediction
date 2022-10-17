@@ -13,12 +13,12 @@ In this repository I will put all projects developed in my MBA in Data Science o
 
 ### Get Google Sheets API
 
-     - First you need to create an account in (Google Cloud) [https://console.cloud.google.com/welcome]
+     - First you need to create an account in [Google Cloud](https://console.cloud.google.com/welcome)
      - Create a Project
      - Create an Google Sheets API
      - 
      
-     For more details watch this video teaching how to configure the Google API (tutorial)[https://www.youtube.com/watch?v=ddf5Z0aQPzY&t=292s]
+     For more details watch this video teaching how to configure the Google API [tutorial](https://www.youtube.com/watch?v=ddf5Z0aQPzY&t=292s)
      
      
 ![image](https://user-images.githubusercontent.com/50839107/196178326-f698ad02-266f-42ae-9b9c-97c42256c928.png)
